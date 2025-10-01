@@ -81,11 +81,25 @@
 #     for j in range(1,4):
 #         print(i, "x", j, "=", i*j)
 
-exercise:
-loop to take 5 names
-then print name + "is awesome!"
+# exercise:
+# loop to take 5 names
+# then print name + "is awesome!"
 
-while loop
-for Loop
-list comp
-challenge - 1 line list comp
+# while loop
+# for Loop
+# list comp
+# challenge - 1 line list comp
+
+# inner list
+#[input("Enter something: " for n in range(5))]
+
+# outer list
+#[print(f"{y} is in the list") for y in iterable]
+
+# combined:
+# x = [print(f"{y} is in the list") for y in [input("Enter something: ") for n in range(5)]]
+
+# print(x)
+
+y = print("heelo")
+print(y)
