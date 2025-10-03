@@ -198,17 +198,44 @@
 
 
 
-TODO:
+# TODO:
 
-lab 5
-lab 6 (stretch: use caching/wrappers)
-optional: simple function exercises
-Rock/paper/scissor app using functions:
-    - user input vs computer
-    - computer chooses randomly
-    - logic determine winner (few lines as possible)
-    - loop to track rounds played, wins, loses.
-    - conditionals for play again/quiting logic. 
-Finish previous labs 
-Research functools
-Reseacxh asynchio
+# lab 5
+# lab 6 (stretch: use caching/wrappers)
+# optional: simple function exercises
+# Rock/paper/scissor app using functions:
+#     - user input vs computer
+#     - computer chooses randomly
+#     - logic determine winner (few lines as possible)
+#     - loop to track rounds played, wins, loses.
+#     - conditionals for play again/quiting logic. 
+# Finish previous labs 
+# Research functools
+# Reseacxh asynchio
+
+# import random
+
+# #def rock_paper_scissors():
+# choicelist = ["rock", "paper", "scissors"]
+# player = input("Enter rock, paper or scissors: ").lower()
+# computer = random.choice(choicelist)
+
+
+# print("you chose:", player) 
+# print("computer chose:", computer)
+
+# if player == computer:
+#   print("it's a tie!")
+# elif(player == "rock" and computer == "scissors") or (player == "paper" and computer == "rock") or (player == "scissors" and computer == "paper"):
+#     print("you win")
+# elif player in "choices": 
+#   print("you lose!")
+# else: 
+#   print("invalid choice, please try again.")
+
+#Rock paper scissors
+#User input vs computer 
+#Computer chooses randomly
+#Logic to determine winner / draw
+#Loop to track rounds played, wins 
+#Conditionals for play again / quiting logic
